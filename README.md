@@ -11,3 +11,12 @@ This project explores the causes of death in the five most populated countries: 
 ## Dataset
 The dataset used for this analysis was sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world), a well-known platform for data science and analytics competitions. The data includes information on various causes of death across multiple countries over 30 years, providing a solid foundation for in-depth analysis and visualization.
 
+## Insights From Data
+### *****Total Deaths and Pattern Over 30 Years*****
+| Country/Territory | Total_Deaths |
+|--------------------|--------------|
+| China             | 265,408,106  |
+| India             | 238,158,165  |
+| Indonesia         | 44,046,941   |
+| Pakistan          | 38,151,878   |
+| United States     | 71,197,802   |

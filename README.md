@@ -20,6 +20,8 @@ The dataset used for this analysis was sourced from [Kaggle](https://www.kaggle.
 | Indonesia         | 44,046,941   |
 | Pakistan          | 38,151,878   |
 | United States     | 71,197,802   |
+
+
 ![Percentage of Deaths](https://github.com/MuhammadUzairMadni/Uzair_DataAnalytics_Portfolio/blob/main/Pi_chart.png)
 ![Total Number of Deaths Over 30 Years in Top 5 Populated Countries](https://github.com/MuhammadUzairMadni/Uzair_DataAnalytics_Portfolio/blob/main/overall_pattern.png)
 
